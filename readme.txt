@@ -3,8 +3,8 @@ Contributors: dhawan, sandeep816
 Donate link: http://qualitytuts.com/
 Tags: plugin, post, widget, wordpress,  sidebar, about me, about
 Requires at least: 3.0
-Tested up to: 3.4.1
-Stable tag: 1.0
+Tested up to: 4.2.4
+Stable tag: 2.0
 License: GPLv2 or later
 
 Smart About Me widget shows the about me content added by wordpress admin
@@ -49,8 +49,12 @@ Enable the plugin and place the widget in the sidebar (where you wants)
 = 1.0 =
 * Lets you specify a title, about me text, social networks links, gravatar
 
+= 2.0 =
+* Bug Fixed 
+* Fixed Css Issue
 
 == Upgrade Notice ==
 
 = 1.0 =
 Initial Release
+

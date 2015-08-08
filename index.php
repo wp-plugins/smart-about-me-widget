@@ -3,7 +3,7 @@
 Plugin Name: Smart About Me Widget
 Plugin URI: http://qualitytuts.com/smart-about-me-widget-wordpress
 Description: Smart about me widget, to show your about me content with your social networks links
-Version: 1.0
+Version: 2.0
 Author: Dheeraj, Sandeep
 Author URI: http://qualitytuts.com
 License: GPL2
